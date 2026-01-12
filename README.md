@@ -69,7 +69,7 @@ I love learning new technologies and applying them in **college projects, real-w
 ## 🌐 Portfolio
 
 🚀 Check out my portfolio here:  
-👉 **http://symphonious-youtiao-46045a.netlify.app**  
+👉 **https://symphonious-youtiao-46045a.netlify.app/**  
 ----
 
 ## 📌 Projects
