@@ -16,16 +16,11 @@ From intuitive frontend interfaces to logical system design, I enjoy creating pr
 
 I love learning new technologies and applying them in **college projects, real-world demos, and smart system applications**.
 
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="90%" />
 </p>
 
----
-
 ## 🛠️ Tech Stack
-
 ### Frontend
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
@@ -41,26 +36,18 @@ I love learning new technologies and applying them in **college projects, real-w
   <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
 </p>
 
----
-
 ## 🌐 Portfolio
 
 🚀 Check out my portfolio here:  
 👉 **https://symphonious-youtiao-46045a.netlify.app/**  
 
----
-
 ## 🌍 Connect With Me
-
 <p>
   <a href="mailto:madannayak23062004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836"/>
   </a>
   <a href="https://www.linkedin.com/in/your-linkedin-id/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
-  <a href="https://github.com/Madannayak003">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
