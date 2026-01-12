@@ -1,46 +1,48 @@
-# Hi there, I'm Madan Nayak 👋
+<h1 align="center">Hi there, I'm Madan Nayak 👋</h1>
 
-**Web Developer | Turning ideas into practical digital solutions**
+<p align="center">
+  <strong>Web Developer | Turning ideas into practical digital solutions</strong>
+</p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate web developer focused on building clean, responsive, and user-friendly web applications.  
-I enjoy working on real-world projects, college mini/major projects, and smart system applications that combine **Web + IoT**.
+I'm a passionate web developer helping individuals and teams build clean, scalable, and modern digital solutions.  
+From intuitive frontend interfaces to logical system design, I enjoy creating projects that **work well, look good, and solve real problems**.
 
-From intuitive frontends to functional logic, I love creating solutions that are simple, scalable, and effective.
+I love learning new technologies and applying them in **college projects, real-world demos, and smart system applications**.
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="80" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="80" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="90%" />
 </p>
 
 ---
 
-
-
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=7952B3"/>
+</p>
 
-### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Tools & Platforms
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
+</p>
 
-### 🔌 IoT & Hardware
-- ESP32
-- Arduino
-- IR Sensors
-- Smart Parking Systems
+### IoT & Hardware
+- ESP32  
+- Arduino  
+- IR Sensors  
+- Smart Parking Systems  
 
 ---
 
@@ -49,18 +51,18 @@ From intuitive frontends to functional logic, I love creating solutions that are
 - 🌱 **Plant Nursery Website**
 - 🚗 **Smart Parking System**
 - 🏠 **Host Website**
-- 🌦️ **Weather / Location-based Projects**
+- 🌦️ **Weather / Location-Based Projects**
 
-👉 Check my repositories to explore more!
+👉 Explore my repositories to see my work in action.
 
 ---
 
 ## 🎯 Goals
 
 - Become a **Full-Stack Web Developer**
-- Build **IoT + Web integrated systems**
-- Improve problem-solving and system design skills
-- Contribute to open-source projects
+- Build **Web + IoT integrated systems**
+- Improve system design & problem-solving skills
+- Contribute to **open-source projects**
 
 ---
 
@@ -70,4 +72,4 @@ From intuitive frontends to functional logic, I love creating solutions that are
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and projects.
+⭐ Thanks for visiting my profile — feel free to check out my projects and repositories!
