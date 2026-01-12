@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Madan+R+%F0%9F%91%8B;Web+Developer;Web+%2B+IoT+Enthusiast;Building+Smart+Digital+Solutions" />
-</p>
-
 <!-- TYPING ANIMATION HEADER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Madan+R+%F0%9F%91%8B;Web+Developer;Web+%2B+IoT+Enthusiast;Building+Smart+Digital+Solutions" />
