@@ -52,8 +52,8 @@ I love learning new technologies and applying them in **college projects, real-w
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madannayak003&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madannayak003&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Madannayak003&show_icons=true&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madannayak003&layout=compact&theme=dark&hide_border=true" height="170"/>
 </p>
 
 ---
@@ -69,7 +69,7 @@ I love learning new technologies and applying them in **college projects, real-w
 ## 🌐 Portfolio
 
 🚀 Check out my portfolio here:  
-👉 **https://your-portfolio-link.com**  
+👉 **http://symphonious-youtiao-46045a.netlify.app**  
 ----
 
 ## 📌 Projects
