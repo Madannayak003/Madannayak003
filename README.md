@@ -13,9 +13,12 @@ From intuitive frontends to functional logic, I love creating solutions that are
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-6cda4d8b-4bda-4d0a-9bcb-2c3b1a7e9d8b.png" alt="coding" width="100%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="100%" />
+</p>
 
 ---
+
 
 ## 🛠️ Tech Stack
 
