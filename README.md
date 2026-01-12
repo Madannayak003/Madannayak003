@@ -1,5 +1,10 @@
 <h1 align="center">Hi there, I'm Madan Nayak 👋</h1>
 
+<!-- TYPING ANIMATION HEADER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Madan+Nayak+%F0%9F%91%8B;Web+Developer;Web+%2B+IoT+Enthusiast;Building+Smart+Digital+Solutions" />
+</p>
+
 <p align="center">
   <strong>Web Developer | Turning ideas into practical digital solutions</strong>
 </p>
@@ -46,6 +51,31 @@ I love learning new technologies and applying them in **college projects, real-w
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Madannayak003&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madannayak003&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madannayak003&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Portfolio
+
+🚀 Check out my portfolio here:  
+👉 **https://your-portfolio-link.com**  
+_(Replace this with your real portfolio URL when ready)_
+
+----
+
 ## 📌 Projects
 
 - 🌱 **Plant Nursery Website**
@@ -68,8 +98,19 @@ I love learning new technologies and applying them in **college projects, real-w
 
 ## 🌍 Connect With Me
 
-- 💻 GitHub: [@Madannayak003](https://github.com/Madannayak003)
+<p>
+  <a href="mailto:madannayak23062004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836"/>
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin-id/">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="https://github.com/Madannayak003">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile — feel free to check out my projects and repositories!
+⭐ Thanks for visiting my profile!
+  Feel free to check out my projects and repositories.
