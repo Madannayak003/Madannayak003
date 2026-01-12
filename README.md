@@ -52,8 +52,9 @@ I love learning new technologies and applying them in **college projects, real-w
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madannayak003&show_icons=true&theme=dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madannayak003&layout=compact&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Madannayak003&show_icons=true&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Madannayak003&layout=compact&theme=dark&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Madannayak003&show_icons=true&theme=dark"/>
 </p>
 
 ---
