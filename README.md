@@ -1,6 +1,6 @@
 <!-- TYPING ANIMATION HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Madan+Nayak+%F0%9F%91%8B;Web+Developer;Web+%2B+IoT+Enthusiast;Building+Smart+Digital+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Madan+R+%F0%9F%91%8B;Web+Developer;Web+%2B+IoT+Enthusiast;Building+Smart+Digital+Solutions" />
 </p>
 
 <p align="center">
@@ -41,55 +41,12 @@ I love learning new technologies and applying them in **college projects, real-w
   <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC"/>
 </p>
 
-### IoT & Hardware
-- ESP32  
-- Arduino  
-- IR Sensors  
-- Smart Parking Systems  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Madannayak003&show_icons=true&theme=dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Madannayak003&layout=compact&theme=dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Madannayak003&show_icons=true&theme=dark"/>
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Madannayak003&bg_color=0D1117&color=00C2FF&line=00C2FF&point=FFFFFF&hide_border=true" />
-</p>
-
 ---
 
 ## 🌐 Portfolio
 
 🚀 Check out my portfolio here:  
 👉 **https://symphonious-youtiao-46045a.netlify.app/**  
-----
-
-## 📌 Projects
-
-- 🌱 **Plant Nursery Website**
-- 🚗 **Smart Parking System**
-- 🏠 **Host Website**
-- 🌦️ **Weather / Location-Based Projects**
-
-👉 Explore my repositories to see my work in action.
-
----
-
-## 🎯 Goals
-
-- Become a **Full-Stack Web Developer**
-- Build **Web + IoT integrated systems**
-- Improve system design & problem-solving skills
-- Contribute to **open-source projects**
 
 ---
 
