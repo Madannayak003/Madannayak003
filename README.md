@@ -11,10 +11,10 @@
 
 <h2>🚀 About Me</h2>
 
-I'm a passionate web developer helping individuals and teams build clean, scalable, and modern digital solutions.  
-From intuitive frontend interfaces to logical system design, I enjoy creating projects that **work well, look good, and solve real problems**.
+I’m a web developer with a strong interest in building clean, user-friendly, and efficient web applications.  
+I enjoy working on projects that combine **good design, clear logic, and real-world usefulness**.
 
-I love learning new technologies and applying them in **college projects, real-world demos, and smart system applications**.
+I’m constantly learning new technologies and applying them in **college projects, personal experiments, and smart system applications**, especially where **Web and IoT** come together.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="90%" />
@@ -39,7 +39,7 @@ I love learning new technologies and applying them in **college projects, real-w
 
 <h2>🌐 Portfolio</h2>
 
-🚀 Check out my portfolio here:  
+🚀 View my work here:  
 👉 **https://symphonious-youtiao-46045a.netlify.app/**  
 
 <h2>🌍 Connect With Me</h2>
@@ -54,9 +54,7 @@ I love learning new technologies and applying them in **college projects, real-w
 
 ---
 
-⭐ Thanks for visiting my profile!  
-Feel free to check out my projects and repositories.
-
 <p align="center">
-  <strong>Web Developer | Turning ideas into practical digital solutions</strong>
+  <strong>Thanks for visiting my profile 👋</strong><br/>
+  Feel free to explore my projects and repositories.
 </p>
