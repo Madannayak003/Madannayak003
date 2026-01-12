@@ -1,5 +1,3 @@
-<h1 align="center">Hi there, I'm Madan Nayak 👋</h1>
-
 <!-- TYPING ANIMATION HEADER -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Madan+Nayak+%F0%9F%91%8B;Web+Developer;Web+%2B+IoT+Enthusiast;Building+Smart+Digital+Solutions" />
@@ -72,8 +70,6 @@ I love learning new technologies and applying them in **college projects, real-w
 
 🚀 Check out my portfolio here:  
 👉 **https://your-portfolio-link.com**  
-_(Replace this with your real portfolio URL when ready)_
-
 ----
 
 ## 📌 Projects
