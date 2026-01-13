@@ -17,8 +17,9 @@ I enjoy working on projects that combine **good design, clear logic, and real-wo
 I’m constantly learning new technologies and applying them in **college projects, personal experiments, and smart system applications**, especially where **Web and IoT** come together.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="50%" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="80%" />
 </p>
+
 
 <h2>🛠️ Tech Stack</h2>
 
