@@ -20,6 +20,9 @@ I’m constantly learning new technologies and applying them in **college projec
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="80%" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="50%" />
+</p>
 
 <h2>🛠️ Tech Stack</h2>
 
