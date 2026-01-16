@@ -38,7 +38,7 @@ I’m constantly learning new technologies and applying them in **college projec
 </p>
 
 <h2>🌐 Portfolio</h2>
-Visit:👉 **https://madanr.netlify.app/**  
+Visit:https://madanr.netlify.app
 
 <h2>🌍 Connect With Me</h2>
 <p>
