@@ -38,9 +38,7 @@ I’m constantly learning new technologies and applying them in **college projec
 </p>
 
 <h2>🌐 Portfolio</h2>
-
-🚀 View my work here:  
-👉 **https://symphonious-youtiao-46045a.netlify.app/**  
+Visit:👉 **https://madanr.netlify.app/**  
 
 <h2>🌍 Connect With Me</h2>
 <p>
