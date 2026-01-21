@@ -40,6 +40,15 @@ I’m constantly learning new technologies and applying them in **college projec
 <h2>🌐 Portfolio</h2>
 Visit:https://madanr.netlify.app
 
+<h2>📊 Most Used Languages</h2>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Madannayak003&layout=compact&theme=tokyonight&hide_border=false" 
+    alt="Most Used Languages"
+  />
+</p>
+
 <h2>🌍 Connect With Me</h2>
 <p>
   <a href="mailto:madannayak23062004@gmail.com">
