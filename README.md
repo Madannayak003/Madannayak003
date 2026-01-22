@@ -54,9 +54,9 @@ Visit:https://madanr.netlify.app
   <a href="mailto:madannayak23062004@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=D14836"/>
   </a>
-  <a href="www.linkedin.com/in/madan-r-22849b354/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-  </a>
+  <a href="https://www.linkedin.com/in/madan-r-22849b354/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
 </p>
 
 ---
