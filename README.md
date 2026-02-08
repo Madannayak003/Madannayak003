@@ -49,15 +49,6 @@ Visit:https://madanr.netlify.app
   />
 </p>
 
-/*
-<h2>📊 Most Used Languages</h2>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
-![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
-*/
-
 <h2>🌍 Connect With Me</h2>
 <p>
   <a href="mailto:madannayak23062004@gmail.com">
