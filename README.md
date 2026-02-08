@@ -42,10 +42,21 @@ Visit:https://madanr.netlify.app
 
 <h2>📊 Most Used Languages</h2>
 
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madannayak003&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Most Used Languages"
+  />
+</p>
+
+/*
+<h2>📊 Most Used Languages</h2>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 ![HTML](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3)
+*/
 
 <h2>🌍 Connect With Me</h2>
 <p>
