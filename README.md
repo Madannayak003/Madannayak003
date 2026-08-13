@@ -111,7 +111,7 @@ I focus on projects where **software, hardware, and real-world problems meet**.
   <img
     src="https://github-readme-stats-fast.vercel.app/api?username=Madannayak003&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
-    width="45%"
+    width="46%"
   />
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Madannayak003&layout=compact&theme=tokyonight&hide_border=true"
