@@ -144,5 +144,6 @@ I focus on projects where **software, hardware, and real-world problems meet**.
 
 <p align="center">
   <strong>Building with code, electronics, and curiosity. ⚡</strong><br/>
-  <sub>Thanks for visiting my profile — feel free to explore my projects and repositories.</sub>
+  <sub>Thanks for visiting my profile — feel free to explore my projects and repositories.</sub><br/>
+  <sub>© Madan R • Open for collaborations and hardware/software projects.</sub>
 </p>
