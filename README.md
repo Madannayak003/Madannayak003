@@ -105,9 +105,14 @@ I focus on projects where **software, hardware, and real-world problems meet**.
 
 ---
 
-<h2>📊 Most Used Languages</h2>
+<h2>📊 GitHub Statistics</h2>
 
 <p align="center">
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=Madannayak003&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+    width="45%"
+  />
   <img
     src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Madannayak003&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most Used Languages"
