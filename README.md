@@ -5,11 +5,19 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Madan+R+%F0%9F%91%8B;Web+Developer;IoT+%26+Embedded+Systems+Enthusiast;Arduino+%7C+ESP32+%7C+ESP8266;Building+Smart+Digital+Solutions" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:0D1117&height=220&section=header&text=Hi%20there,%20I'm%20Madan%20R%20👋&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38" width="100%" alt="Header Banner" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Web+Developer;IoT+%26+Embedded+Systems+Enthusiast;Arduino+%7C+ESP32+%7C+ESP8266;Building+Smart+Digital+Solutions" />
 </p>
 
 <p align="center">
   <strong>Web Development • IoT • Embedded Systems • Smart Automation</strong>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00C2FF&height=3" width="100%" alt="Divider Line" />
 </p>
 
 ---
@@ -86,22 +94,12 @@ I focus on projects where **software, hardware, and real-world problems meet**.
 
 | Area          | Focus                                                          |
 | ------------- | -------------------------------------------------------------- |
-| 🌐 Web        | Websites, dashboards, responsive interfaces & web applications |
-| 🔌 IoT        | Connected devices, sensors, monitoring & automation            |
-| 🤖 Embedded   | Arduino, ESP32, ESP8266 & hardware control                     |
-| 🧠 AI         | Computer vision, object detection & intelligent automation     |
-| ☁️ Cloud      | Firebase, Google Apps Script & connected services              |
-| ⚙️ Automation | Smart systems, device control & real-time workflows            |
-
----
-
-## 🌐 Portfolio
-
-<p align="center">
-  <a href="https://madanr.netlify.app">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-00C2FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
+| 🌐 **Web Development**        | Websites, dashboards, responsive interfaces & web applications |
+| 🔌 **IoT Architecture**       | Connected devices, sensors, monitoring & automation            |
+| 🤖 **Embedded Systems**       | Arduino, ESP32, ESP8266 & hardware control                     |
+| 🧠 **Computer Vision**        |Object detection, smart automation using OpenCV & YOLO      |
+| ☁️ **Cloud & Services**       | Firebase, Google Apps Script & connected services              |
+| ⚙️ **Automation**             | Smart systems, device control & real-time workflows            |
 
 ---
 
@@ -138,6 +136,11 @@ I focus on projects where **software, hardware, and real-world problems meet**.
 </p>
 
 ---
+
+<!-- FOOTER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00C2FF&height=120&section=footer" width="100%" />
+</p>
 
 <p align="center">
   <strong>Building with code, electronics, and curiosity. ⚡</strong><br/>
