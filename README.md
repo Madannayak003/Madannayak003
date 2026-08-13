@@ -95,28 +95,6 @@ I focus on projects where **software, hardware, and real-world problems meet**.
 
 ---
 
-## 🚧 Featured Projects
-
-### 🅿️ Smart Parking System
-
-**Arduino • RFID • ESP8266 • IoT • Web Dashboard**
-
-A smart parking solution combining RFID-based vehicle identification, parking-slot monitoring, automated gates, cloud logging and a web-based management dashboard.
-
-### 🚦 ATMERS
-
-**Arduino Mega • Python • OpenCV • YOLO • Computer Vision**
-
-An intelligent traffic management prototype designed for adaptive traffic control and emergency vehicle prioritization using computer vision and embedded hardware.
-
-### 🤖 JARVIS PRO
-
-**Python • AI • Automation • Voice • Computer Vision • IoT**
-
-An ongoing intelligent personal assistant project focused on natural conversation, automation, AI-driven workflows, developer tools and future hardware integration.
-
----
-
 ## 🌐 Portfolio
 
 <p align="center">
@@ -127,11 +105,11 @@ An ongoing intelligent personal assistant project focused on natural conversatio
 
 ---
 
-## 📊 Most Used Languages
+<h2>📊 Most Used Languages</h2>
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madannayak003&layout=compact&theme=tokyonight&hide_border=true" 
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Madannayak003&layout=compact&theme=tokyonight&hide_border=true"
     alt="Most Used Languages"
   />
 </p>
